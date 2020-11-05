@@ -1,0 +1,3 @@
+[submodule "x2struct"]
+	path = x2struct
+	url = https://github.com/xyz347/x2struct.git
