@@ -17,7 +17,7 @@ C++11实现的进程LRU缓存，并提供数据持久化的方法
 ## 编译 & 使用
 编译
 ```
-git config --global credential.helper store
+g++ -o test_cache  test_cache.cpp -std=c++11 -I x2struct/
 ```
 
 使用
